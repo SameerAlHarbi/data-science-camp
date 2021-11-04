@@ -1,4 +1,4 @@
-# Science Camp Proposal
+# Data Science Camp Proposal
 
 ## Overview
 

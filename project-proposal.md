@@ -8,7 +8,21 @@ In this project, I want to perform some exploratory data analysis and build one 
 
 The data set for this project is a chemical analysis dataset extracted by analyzing some geological samples collected by geologists from different locations in my work field, in excel file and it need some data cleaning before the data set is ready.
 
-*Models*
+## Modele 
 
-test
+* linear regression 
+* k-nearest neighbors
+
+## Programming language and libraries tools
+
+I well use python programming language for AI development along with its libraries 
+for example :
+
+- Numpy for data manipulation
+- Pandas for data manipulation
+- Scikit-learn  for modeling
+- Matplotlib for plotting.
+- seaborn for plotting.
+
+And other libraries that might be helpful in modeling algorithms to achieve my goal.
 

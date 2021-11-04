@@ -8,6 +8,8 @@ In this project, I want to perform some exploratory data analysis and build one 
 
 The data set for this project is a chemical analysis dataset extracted by analyzing some geological samples collected by geologists from different locations in my work field, in excel file and it need some data cleaning before the data set is ready.
 
+*Note* : According on the sensitivity of the data, some columns have been hidden
+
 ## Modele 
 
 * linear regression 

@@ -1,4 +1,4 @@
-# Tuwaiq Data Science Camp Proposal
+# Science Camp Proposal
 
 ## Overview
 
